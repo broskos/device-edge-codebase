@@ -1,3 +1,4 @@
+{% raw %}
 ---
 
 - name: template out kickstart file
@@ -12,3 +13,4 @@
         owner: apache
         group: apache
         mode: '0755'
+{% endraw %}
